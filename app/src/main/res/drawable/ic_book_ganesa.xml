@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Open Book (Grey) -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M50,85C40,85 20,80 10,80V25C20,25 40,30 50,30V85Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M50,85C60,85 80,80 90,80V25C80,25 60,30 50,30V85Z" />
+    <!-- Book Spine/Center line -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M49,30H51V85H49Z" />
+
+    <!-- Lord Ganesha Silhouette (Orange) - Placed Above the Book -->
+    <!-- Positioned to look like he is sitting on or emerging from the book -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M50,15C46,15 43,18 43,22C43,23.5 43.5,25 44.5,26C42,27 40,29 40,32C40,33.5 40.5,35 41.5,36C38,37 36,40 36,44C36,50 41,54 47,55V62C47,64 46,65 44,65H40V68H60V65H56C54,65 53,64 53,62V55C59,54 64,50 64,44C64,40 62,37 58.5,36C59.5,35 60,33.5 60,32C60,29 58,27 55.5,26C56.5,25 57,23.5 57,22C57,18 54,15 50,15Z
+        M50,20C51,20 52,21 52,22C52,23 51,24 50,24C49,24 48,23 48,22C48,21 49,20 50,20Z
+        M50,28C52,28 54,30 54,32C54,34 52,36 50,36C48,36 46,34 46,32C46,30 48,28 50,28Z
+        M47,38H53V50C53,52 52,53 50,53C48,53 47,52 47,50V38Z
+        M42,42C42,41 43,40 44,40V48C43,48 42,47 42,46V42Z
+        M58,42V46C58,47 57,48 56,48V40C57,40 58,41 58,42Z" />
+
+    <!-- Decorative Halo (Orange) -->
+    <path
+        android:strokeColor="#FF9800"
+        android:strokeWidth="1"
+        android:pathData="M50,10A25,25 0 1,1 50,60A25,25 0 1,1 50,10" />
+
+</vector>

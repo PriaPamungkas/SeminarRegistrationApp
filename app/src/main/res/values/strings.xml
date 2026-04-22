@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Seminar Registration App</string>
+    <string name="home_title">Seminar Registration App</string>
+    <string name="btn_register_seminar">Daftar Seminar</string>
+
+    <string name="form_title">Form Pendaftaran Seminar</string>
+    <string name="label_name">Nama Lengkap</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Nomor HP</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="gender_male">Laki-laki</string>
+    <string name="gender_female">Perempuan</string>
+    <string name="label_seminar">Pilih Seminar</string>
+    <string name="agreement_text">Saya menyetujui data yang diinput benar</string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="error_empty">Field ini wajib diisi</string>
+    <string name="error_email">Email tidak valid (harus mengandung @)</string>
+    <string name="error_phone">Nomor HP harus 10-13 digit, diawali 08</string>
+
+    <string name="dialog_title">Konfirmasi</string>
+    <string name="dialog_message">Apakah data yang Anda isi sudah benar?</string>
+    <string name="dialog_yes">Ya</string>
+    <string name="dialog_no">Tidak</string>
+
+    <string name="result_title">Hasil Pendaftaran</string>
+    <string name="success_message">Pendaftaran Berhasil</string>
+    <string name="btn_back_home">Kembali ke Halaman Utama</string>
+
+    <string-array name="seminar_list">
+        <item>Android Development with Kotlin</item>
+        <item>Web Development with React</item>
+        <item>UI/UX Design Masterclass</item>
+        <item>Data Science Essentials</item>
+        <item>Cloud Computing for Beginners</item>
+    </string-array>
+</resources>
