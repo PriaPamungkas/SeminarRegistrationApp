@@ -14,3 +14,4 @@ Aplikasi android sederhana untuk registrasi seminar menggunakan kotlin.
   3. Jalankan di emulator
  
   ## Link Youtube
+https://youtu.be/ZEef0ezSPs8
